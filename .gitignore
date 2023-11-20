@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Dependency directories
+yarn-error.log
+.pnp/
+.pnp.js
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# npm
+*.npm-debug.log*

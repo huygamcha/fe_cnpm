@@ -1,0 +1,15 @@
+
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 700;
+}
+ .item:hover {
+    cursor: pointer;
+    background-color: #ccc;
+    color: rgb(92, 134, 216) ;
+
+}
